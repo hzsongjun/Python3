@@ -2,7 +2,7 @@
 # -*- coding: utf-8 -*-
 # Author: PanFei Liu
 
-import logging
+import logging #####
 
 # create logger
 logger = logging.getLogger('ATM-LOG')
